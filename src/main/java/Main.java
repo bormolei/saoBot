@@ -14,7 +14,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         String part1 ="NzgyMTYzNjUxMzY3Nzk2NzQ3.";
-        String part2 ="X8IMqg.iuDL6L-5UxfJoMRiiCeQORzv_AA";
+        String part2 ="X8IMqg.3AwlE-ZOGpY2fNgsxIdjo245E2Q";
 
         jda = JDABuilder.createDefault(part1+part2)
                 .addEventListeners(new Listener())
